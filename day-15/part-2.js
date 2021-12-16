@@ -1,6 +1,5 @@
-// started 12/15/2021 9:36 am
-// finished 3:19 pm
-
+// started 12/15/2021 3:19 pm
+// finished 9:57 pm
 
 // structure for information of each cell
 class node {
