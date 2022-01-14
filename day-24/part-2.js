@@ -1,4 +1,4 @@
-// 3:30pm
+// 2 hours
 
 // from https://medium.com/@chenzhenxi/fastest-way-to-select-the-ntn-digit-in-integer-in-javascript-216fa6f9dd71
 function math(ntn, number){
